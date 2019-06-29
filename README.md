@@ -1,5 +1,6 @@
 Bypass Kernel ASLR
 Target : Windows 10 (remote bypass)
+By @Eawhitehat
 -----------------------------------------------------------------------------
 Imagine, you can execute in remote (and you can repeat this action) :
 
